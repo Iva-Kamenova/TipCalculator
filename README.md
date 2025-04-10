@@ -21,3 +21,6 @@ A modern tip calculator built with HTML, CSS, and JavaScript. This simple tool a
 - HTML for structuring the form.
 - CSS for styling the user interface.
 - JavaScript for handling the calculations and dynamic display.
+
+Created by Iva Boneva 
+Year: 2025
